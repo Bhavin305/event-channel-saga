@@ -1,0 +1,25 @@
+{
+  "name": "event-channel-saga",
+  "version": "1.0.0",
+  "description": "Event channel example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavin305/event-channel-saga.git"
+  },
+  "author": "bhavin.ce305@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavin305/event-channel-saga/issues"
+  },
+  "homepage": "https://github.com/Bhavin305/event-channel-saga#readme",
+  "dependencies": {
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0",
+    "redux-saga-effects": "^1.1.0",
+    "socket.io-client": "^2.0.4"
+  }
+}
